@@ -1,7 +1,7 @@
-### Docker/Composer Rails 4
+### Docker/Compose Rails 4
 ---
 
-_Fast Rails4 setup for development using Docker and Composer_
+_Fast Rails4 setup for development using Docker and Compose_
 
 
 Build your app:
